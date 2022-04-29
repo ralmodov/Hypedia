@@ -1,0 +1,7 @@
+fact
+"404 error codes are cached by LDS, but 400, 401, 403 are not."
+use npmrc to tell npm not to use nexus.
+xplatform manages its own database without smartstore, so does feed sdk.
+W-123 is in review
+W-456 is blocked by W-789
+the sky is blue.

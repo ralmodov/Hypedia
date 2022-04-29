@@ -1,1 +1,1 @@
-worker: node app.js
+worker: node --inspect=7000 app.js
